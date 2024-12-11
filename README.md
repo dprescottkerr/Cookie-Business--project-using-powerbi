@@ -36,11 +36,12 @@ Insight: Breaks down revenue by city and the type of cookies sold.
 
 ![image](https://github.com/user-attachments/assets/f5bd3d15-9ed8-438f-9609-3fbb3745f764)
 
-3️⃣  Revenue by Cookie ID
+3️⃣  Revenue by Cookie Type
 
-Insight: Highlights revenue contribution from each cookie ID.
+Insight: Highlights revenue contribution from each cookie type.
 
-![image](https://github.com/user-attachments/assets/b1c154e0-4698-43bf-8830-115cdb4393d9)
+![image](https://github.com/user-attachments/assets/92939aee-a1b1-482a-ae58-135122f144ec)
+
 
 
 
@@ -50,4 +51,4 @@ Total Revenue Trends: Significant revenue generated from certain cities and cook
 
 City-Level Analysis: Revenue patterns vary widely by location and cookie preferences.
 
-Cookie ID Insights: Certain cookies outperform others in sales.
+Cookie type Insights: Certain cookies outperform others in sales.
