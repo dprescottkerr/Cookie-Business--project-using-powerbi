@@ -45,10 +45,21 @@ Insight: Highlights revenue contribution from each cookie type.
 
 
 
-💡 Key Insights
+💡 Recommendations
 
-Total Revenue Trends: Significant revenue generated from certain cities and cookie types.
+Target High-Performing Cities:
+Insight: Green Bay generates the most revenue across all cookie types
 
-City-Level Analysis: Revenue patterns vary widely by location and cookie preferences.
+Recommendation: Focus marketing campaigns and promotional efforts in Green Bay 
+ 
+Evaluate Underperforming Cookie Types
+Insight: Fortune Cookies and Sugar Cookies generate the least revenue.
+ 
+Recommendation: Assess if these cookies should be continued. Consider reducing production or discontinuing them
 
-Cookie type Insights: Certain cookies outperform others in sales.
+Expand Successful Flavors in All Cities:
+
+Insight: Chocolate Chip is a strong performer across all cities.
+
+Recommendation: Introduce additional variants or packaging options for Chocolate Chip cookies in other cities to replicate its success.
+
